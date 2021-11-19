@@ -14,27 +14,6 @@
     <guid>https://wwww.youwe.vip/theme-documentation-basics/</guid>
     <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
 </item><item>
-    <title>主题文档 - 内容</title>
-    <link>https://wwww.youwe.vip/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://wwww.youwe.vip/theme-documentation-content/</guid>
-    <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
-</item><item>
-    <title>Markdown 基本语法</title>
-    <link>https://wwww.youwe.vip/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://wwww.youwe.vip/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
-</item><item>
-    <title>Emoji 支持</title>
-    <link>https://wwww.youwe.vip/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://wwww.youwe.vip/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
-</item><item>
     <title>HTTP API文档</title>
     <link>https://wwww.youwe.vip/api/</link>
     <pubDate>Fri, 19 Nov 2021 12:05:23 &#43;0800</pubDate>
@@ -43,10 +22,10 @@
     <description><![CDATA[HTTP API文档 安装镜像 使用etcher烧录镜像 SD卡格式化工具 https://www.sdcard.org/downloads/formatter/ 开启ssh 使用IP scan获取ip 在/boot下新建名为ssh的空文件夹 1 2 默]]></description>
 </item><item>
     <title>First</title>
-    <link>https://wwww.youwe.vip/first_post/</link>
+    <link>https://wwww.youwe.vip/first-post/</link>
     <pubDate>Fri, 04 Mar 2016 15:58:26 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://wwww.youwe.vip/first_post/</guid>
-    <description><![CDATA[xxxxx]]></description>
+    <guid>https://wwww.youwe.vip/first-post/</guid>
+    <description><![CDATA[hello world!]]></description>
 </item></channel>
 </rss>

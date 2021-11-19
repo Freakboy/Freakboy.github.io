@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 我的全新 Hugo 网站</title>
+        <link>http://example.org/posts/</link>
+        <description>所有文章 | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 19 Nov 2021 12:05:23 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://example.org/first_post/</link>
+    <pubDate>Fri, 19 Nov 2021 12:05:23 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/first_post/</guid>
+    <description><![CDATA[xxxxx]]></description>
+</item><item>
+    <title>HTTP API文档</title>
+    <link>http://example.org/api/</link>
+    <pubDate>Fri, 19 Nov 2021 12:05:23 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/api/</guid>
+    <description><![CDATA[HTTP API文档 安装镜像 使用etcher烧录镜像 SD卡格式化工具 https://www.sdcard.org/downloads/formatter/ 开启ssh 使用IP scan获取ip 在/boot下新建名为ssh的空文件夹 1 2 默]]></description>
+</item></channel>
+</rss>

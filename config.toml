@@ -43,6 +43,22 @@ ignoreErrors = ["error-missing-instagram-accesstoken", "error-remote-getjson"]
       url = "/categories/"
       title = ""
       weight = 3
+    [[languages.en.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "About"
+      url = "/about/"
+      title = ""
+      weight = 4
+    [[languages.en.menu.main]]
+      identifier = "friends"
+      pre = ""
+      post = ""
+      name = "Friends"
+      url = "/friends/"
+      title = ""
+      weight = 5
 
   [languages.zh-cn]
     weight = 2
@@ -76,6 +92,22 @@ ignoreErrors = ["error-missing-instagram-accesstoken", "error-remote-getjson"]
       url = "/categories/"
       title = ""
       weight = 3
+    [[languages.zh-cn.menu.main]]
+      identifier = "关于"
+      pre = ""
+      post = ""
+      name = "关于"
+      url = "/about/"
+      title = ""
+      weight = 4
+    [[languages.zh-cn.menu.main]]
+      identifier = "友链"
+      pre = ""
+      post = ""
+      name = "友链"
+      url = "/friends/"
+      title = ""
+      weight = 5
 
 
 [params]

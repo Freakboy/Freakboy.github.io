@@ -38,15 +38,6 @@
                     hreflang="en"
                     href="https://wwww.youwe.vip/en/categories/documentation/"
                     /></url><url>
-            <loc>https://wwww.youwe.vip/en/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/tags/installation/"
-                    /></url><url>
             <loc>https://wwww.youwe.vip/en/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -55,6 +46,15 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://wwww.youwe.vip/en/"
+                    /></url><url>
+            <loc>https://wwww.youwe.vip/en/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://wwww.youwe.vip/tags/installation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://wwww.youwe.vip/en/tags/installation/"
                     /></url><url>
             <loc>https://wwww.youwe.vip/en/posts/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

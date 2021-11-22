@@ -2,78 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://wwww.youwe.vip/en/theme-documentation-basics/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/theme-documentation-basics/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/theme-documentation-basics/"
-                    /></url><url>
-            <loc>https://wwww.youwe.vip/en/categories/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/categories/"
-                    /></url><url>
-            <loc>https://wwww.youwe.vip/en/tags/configuration/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/tags/configuration/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/tags/configuration/"
-                    /></url><url>
-            <loc>https://wwww.youwe.vip/en/categories/documentation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/categories/documentation/"
-                    /></url><url>
-            <loc>https://wwww.youwe.vip/en/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/"
-                    /></url><url>
-            <loc>https://wwww.youwe.vip/en/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/tags/installation/"
-                    /></url><url>
-            <loc>https://wwww.youwe.vip/en/posts/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/posts/"
-                    /></url><url>
-            <loc>https://wwww.youwe.vip/en/tags/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://wwww.youwe.vip/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://wwww.youwe.vip/en/tags/"
-                    /></url><url>
             <loc>https://wwww.youwe.vip/en/about/</loc><lastmod>2016-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -91,4 +19,40 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://wwww.youwe.vip/en/friends/"
+                    /></url><url>
+            <loc>https://wwww.youwe.vip/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://wwww.youwe.vip/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://wwww.youwe.vip/en/categories/"
+                    /></url><url>
+            <loc>https://wwww.youwe.vip/en/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://wwww.youwe.vip/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://wwww.youwe.vip/en/categories/documentation/"
+                    /></url><url>
+            <loc>https://wwww.youwe.vip/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://wwww.youwe.vip/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://wwww.youwe.vip/en/"
+                    /></url><url>
+            <loc>https://wwww.youwe.vip/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://wwww.youwe.vip/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://wwww.youwe.vip/en/tags/"
                     /></url></urlset>
